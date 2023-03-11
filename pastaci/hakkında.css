@@ -1,0 +1,146 @@
+body {background-color: white;}
+.temizlik{
+    clear:both;
+}
+.kapsayici {
+    width: 100%;
+    height: auto;
+}
+
+h2{
+    margin-left:2%;
+}
+
+p{
+    margin-left:2%;
+}
+.menu {
+    width: 100%;
+    height: 50px;
+    text-align: left;
+    background-color: #2b2a2a;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    margin-left: 45%;
+}
+
+    ul li {
+        float: left;
+        text-align: center;
+    }
+
+li a {
+    display: block;
+    background-color: #2b2a2a;
+    color: white;
+    text-decoration: none;
+    padding: 10px 12px;
+}
+
+    li a:hover {
+        color: #ff6a00;
+        transition-delay: 0.5s;
+    }
+
+.menualan {
+    width: 100%;
+    height: 50px;
+
+    background-color:#191919;
+    color:white;
+    text-align:center;
+    font-size:48px;
+    font-family:Arial;
+}
+
+.cakes{
+    width:100%;
+    height:auto;
+}
+
+.birthdaycakes{
+    width:48%;
+    height:150px;
+    background-color:antiquewhite;
+    float:left;
+    margin:1%;
+    
+}
+
+.icgri{
+    width:25%;
+    height:150px;
+    background-color:#191919;
+    text-align:center;
+    color:orange;
+    float:left;
+}
+.resim{
+    width:100%;
+    height:75px;
+}
+
+.icyazi {
+    width: 99%;
+    height: 145px;
+    text-align: left;
+    color: black;
+    border: 3px solid white;
+}
+
+.supercrispy {
+    width: 96%;
+    height: 175px;
+    background-image: url('img/bg.jpg');
+    text-align:center;
+    color:wheat;
+    padding:2%;
+}
+
+.footerust {
+    width: 100%;
+    height: 250px;
+    background-image: url('img/bg.jpg');
+    position: relative;
+}
+
+.footerustyazi {
+    width: 30%;
+    height: 150px;
+    margin-left: 3%;
+    margin-top: 3%;
+    text-align: left;
+}
+
+.fontawesomeiconkutu {
+    width: 10%;
+    height: 40px;
+    background-color: orange;
+    float: left;
+    margin-left: 2%;
+}
+
+.font {
+    width: auto;
+    height: auto;
+    border: 3px solid white;
+    color: white;
+    text-align: center;
+    margin: 10%;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.resim{
+  text-align: left;
+}
